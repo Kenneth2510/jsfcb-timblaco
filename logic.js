@@ -400,8 +400,7 @@ document.addEventListener('touchend', (e) => {
 			slideRight();	
 		} else {
 			return;
-		}
-
+		} 
 		// if(diffX > 0) {
 		// 	slideLeft();
 		// 	setTwo();
